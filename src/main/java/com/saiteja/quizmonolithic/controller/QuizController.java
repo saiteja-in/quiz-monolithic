@@ -5,7 +5,6 @@ import com.saiteja.quizmonolithic.model.QuestionWrapper;
 import com.saiteja.quizmonolithic.model.Response;
 import com.saiteja.quizmonolithic.service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
